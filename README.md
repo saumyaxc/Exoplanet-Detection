@@ -1,4 +1,4 @@
-# Exoplanet-Detection
+# Exoplanet Detection
 
 This project explores the use of machine learning techniques to identify potential exoplanets using data from NASA's Kepler Space Telescope. The dataset includes observed light curves and associated stellar properties, which are used to train models for binary classification of exoplanet candidates.
 
